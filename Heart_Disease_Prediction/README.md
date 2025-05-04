@@ -2,11 +2,15 @@ This Project is all about the Heart Disease Prediction using Logistic Regression
 
 Features:
 
-Loading and exploring a heart disease dataset
-Performing data preprocessing and feature engineering
-Building a logistic regression model
-Evaluating model performance using accuracy, confusion matrix and Classification Report
-The dataset used is assumed to be from a public heart disease dataset, such as the onefrom the UCI Machine Learning Repository. 
+- Loading and exploring a heart disease dataset.
+  
+- Performing data preprocessing and feature engineering.
+  
+- Building a logistic regression model.
+  
+- Evaluating model performance using accuracy, confusion matrix and Classification Report.
+  
+- The dataset used is assumed to be from a public heart disease dataset, such as the onefrom the UCI Machine Learning Repository. 
 
 The notebook uses the following libraries:
 
